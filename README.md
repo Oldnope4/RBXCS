@@ -1,7 +1,7 @@
 # RBXCS
 Open-source Roblox CoreScripts. No instructions, you should know how to import these before using this repository!
 # Writing core scripts
-Use the REFERENCE.txt file to get information on how to write them.
+Use the REFERENCE.md file to get information on how to write them.
 # Warranty
 There is no warranty, whatever you do with these is your doing and not mine. If something happens, it's probably your fault.
 # Pull Requests
